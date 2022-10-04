@@ -12,7 +12,7 @@ https://ztnr.rtve.es/ztnr/1688885.m3u8
 #EXTINF:-1 tvg-id="La2.TV" tvg-logo="https://graph.facebook.com/la2detve/picture?width=200&height=200" group-title="Generalistas" tvg-name="La 2",La 2
 https://rtvelivestream.akamaized.net/segments/la2/la2_main_dvr.m3u8
 #EXTINF:-1 tvg-id="13.TV" tvg-logo="https://graph.facebook.com/TRECEtves/picture?width=200&height=200" group-title="Generalistas" tvg-name="TRECE",TRECE
-https://play.cdn.enetres.net/091DB7AFBD77442B9BA2F141DCC182F5021/live.smil/playlist.m3u8
+https://live-edge-eu-1.cdn.enetres.net/091DB7AFBD77442B9BA2F141DCC182F5021/liveld/index.m3u8
 #EXTINF:-1 tvg-id="ElToroTV.TV" tvg-logo="https://graph.facebook.com/eltorotv.es/picture?width=200&height=200" group-title="Generalistas" tvg-name="El Toro TV",El Toro TV
 https://streaming003.gestec-video.com/hls/eltoro_bal.m3u8
 #EXTINF:-1 tvg-id="7NN.TV" tvg-logo="https://pbs.twimg.com/profile_images/1438490162279981060/yL69CGN9_200x200.jpg" group-title="Generalistas" tvg-name="7NN Noticias",7NN 
