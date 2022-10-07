@@ -3,6 +3,8 @@
 #EXTM3U url-tvg="https://www.tdtchannels.com/epg/TV.xml"
 #EXTINF:-1 tvg-id="RTPA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a4/Logo-tpa7.jpg" group-title="Generalistas" tvg-name="RTPA",RTPA
 https://cdnlive.shooowit.net/rtpalive/directo.smil/.m3u8
+#EXTINF:-1 tvg-id="LIBERTAD DIGITAL" tvg-logo="https://graph.facebook.com/LIBERTADDIGITAL/picture?width=200&height=200" group-title="Generalistas" tvg-name="LIBERTAD DIGITAL",LIBERTAD DIGITAL
+https://stream-09.ix7.dailymotion.com/sec(99xYsjgbwcGgYHHT_FT-A3Bo1WvgK9N8cAI2LD1r_PEj93fz3mZ7zO7A5pGyG3yp)/dm/3/xnm032/s/live-2.m3u8
 #EXTINF:-1 tvg-id="La1.TV" tvg-logo="https://pbs.twimg.com/profile_images/899385012801470464/akSvNCqE_200x200.jpg" group-title="Generalistas" tvg-name="La 1",La 1
 https://ztnr.rtve.es/ztnr/1688877.m3u8
 #EXTINF:-1 tvg-id="La1.TV" tvg-logo="https://pbs.twimg.com/profile_images/899385012801470464/akSvNCqE_200x200.jpg" group-title="Generalistas" tvg-name="La 1",La 1
